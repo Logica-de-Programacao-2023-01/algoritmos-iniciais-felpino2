@@ -1,0 +1,24 @@
+Algoritmo de soma de dois números: um algoritmo simples que pede dois
+números como entrada e retorna a soma desses dois números.
+1: Ler x
+2: Ler y
+3: Resultado x+y=z
+4: Escrever z
+
+Algoritmo de conversão de temperatura: um algoritmo que converte uma
+temperatura em Celsius para Fahrenheit ou vice-versa.
+1. Se xºC
+2. Ler xºC
+3. Resultado x/100=y-32/180
+4. Escrever yºF
+5. Se yºF
+6. Ler yºF
+7. Resultado y-32/180=x/100
+8. Escrever xºC
+
+Algoritmo de cálculo de média: um algoritmo que calcula a média de uma
+lista de números.
+1. Ler (x,y,z,a,b...)
+2. Resultado Se n números: x+y+z/n=r
+3. Escrever r
+
