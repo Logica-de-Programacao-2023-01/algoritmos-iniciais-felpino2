@@ -18,7 +18,8 @@ temperatura em Celsius para Fahrenheit ou vice-versa.
 
 Algoritmo de cálculo de média: um algoritmo que calcula a média de uma
 lista de números.
-1. Ler (x,y,z,a,b...)
-2. Resultado Se n números: x+y+z/n=r
-3. Escrever r
+1. Ler lista de números
+2. Iniciar variável soma com 0 
+3. Escrever lisa de números/soma
+4. Escrever resultado
 
