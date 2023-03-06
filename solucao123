@@ -22,6 +22,6 @@ lista de números.
 2. Iniciar variável soma com 0
 3. Para cada número da lista faça
 4. Adicionar cada número à variável soma
-5. Escrever soma/n
-6. Escrever resultado
+5. Escrever soma/n = r
+6. Escrever r
 
