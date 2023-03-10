@@ -1,0 +1,28 @@
+
+Algoritmo de cálculo de fatorial: um algoritmo que calcula o fatorial de um número, ou seja, o produto de todos os números inteiros de 1 até aquele número
+
+. Leia n!
+. Se n=0 
+. Então 0!=1
+. Senão
+. Iniciar variável fatorial = 1
+. Enquanto n-i é diferente de 0
+. Enquanto fatorial=n-i
+. Faça multiplicação n-i=fatorial enquanto fatorial é diferente de 0
+. Escreva resultado
+
+Algoritmo de busca linear: um algoritmo que procura por um determinado elemento em uma lista, verificando cada elemento da lista até encontrá-lo.
+
+. Leia lista de x números
+. Peça valor da lista que deve ser encontrado (z)
+. Crie variável y=0
+. Para cada número da lista some à variável
+. Liste z
+
+Algoritmo de cálculo de potência: um algoritmo que calcula a potência de um número, elevando-o a uma determinada potência.
+
+. Leia n^x
+. Faça multiplicação n.n x vezes
+. Escreva resultado
+
+
