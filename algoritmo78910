@@ -1,0 +1,36 @@
+7. Algoritmo de verificação de número primo: um algoritmo que verifica se um número é primo, ou seja, se é divisível apenas por 1 e por ele mesmo.
+. Leia número x inteiro
+. Se n menor ou igual a 1, n não é primo
+. Senão, dividir n por n-1 até n=1
+. Se divisão for inteira, n não é primo
+. Se n apenas dividir por n inicial, é primo
+. Escreva o número
+. Fim
+
+8. Algoritmo de cálculo de área de um triângulo: um algoritmo que calcula a área de um triângulo com base na base e altura fornecidas.
+. Leia altura
+. Leia base
+. Faça base vezes altura = x
+. Faça x dividido por 2
+. Escreva resultado
+. Fim
+
+9.Algoritmo de cálculo de juros compostos: um algoritmo que calcula o montante de dinheiro após um período de tempo com juros compostos.
+. Leia capital aplicado = C
+. Leia taxa de juros = i
+. Pergunte tempo de aplicação = t
+. Leia tempo de aplicação
+. Faça 1+i = z
+. Faça z elevado a t = a
+. Faça a vezes C = M
+. Escreva M
+. Fim
+
+10. Algoritmo de cálculo de média ponderada: um algoritmo que calcula a média ponderada de uma lista de números com base nos pesos fornecidos.
+. Leia lista de números (x, y, z... n)
+. Leia pesos (p1, p2, p3... pn)
+. Para cada n, multiplicar a seu respectivo pn
+. Faça soma dos n vezes pn
+. Divida pela soma dos pn
+. Escreva resultado
+. Fim
